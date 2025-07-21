@@ -7,13 +7,13 @@
 
 ### Construindo um Simulador de Piano com JavaScript e CSS
 
-Atividade executada, replicando os passos/codificações contidos nos vídeos, sendo assim uma cópia da implementação apresentada, e conforme orientações abaixo, retiradas da [Descrição do Desafio](https://web.dio.me/lab/criando-um-simulador-de-piano/learning/c9ab57b8-9239-49a2-9905-916dc5c3c543).  
+Atividade executada, replicando os passos/codificações contidos nos vídeos, sendo assim uma cópia da implementação apresentada, e conforme orientações abaixo retiradas da [Descrição do Desafio](https://web.dio.me/lab/criando-um-simulador-de-piano/learning/c9ab57b8-9239-49a2-9905-916dc5c3c543).  
 O resultado do desafio é composto pelas alterações e ajustes que achei necessário.  
 <small><sup>Obs.: O link acima somente é acessado através de uma conta na plataforma DIO.</sup></small>
 
 ---  
 
-#### ***Resultado final do desafio -=-> [Simulador Piano]()***
+#### ***Resultado final do desafio -=-> [Simulador Piano](https://wprotheus.github.io/Desafio-piano/)***
 
 ---
 
