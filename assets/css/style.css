@@ -6,13 +6,12 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: #e3f2fd;
-    color: #fff;
+    background-color: rgba(119, 136, 153, 0.8);
 }
 
 .container {
     width: 620px;
-    border-radius: 20px;
+    border-radius: 2ch 7ch;
     padding: 35px 44px;
     background: linear-gradient(180deg,
     rgba(49, 28, 16, 1) 17%,
